@@ -1,11 +1,10 @@
 # Hi, I'm Ahsanur Razee | Microbiology Senior
 ## 🔬 About Me
 - 🌱 Undergraduate 4th Year, Department of Microbiology, University of Dhaka
-- 💻 Interested in Environmental Microbiome Research and Analysis.
-- 📊 Want to use my research experience for mitigating Climate resilience using Microbial Knowledge.
-- 🚀 My goal is to build a professional career in clinical and translational research.
+- 💻 Interested in Environmental Microbiome and neurodegenerative disease research.
+- 🚀 My goal is to build a professional career in bioinformatics.
 ## 🛠 Skills
-- Laboratory Skills- ELISA, PCR, Gel Electrophoresis, Pure Culture Techniques
+- Laboratory Skills- ELISA, Gel Electrophoresis, Pure Culture Techniques
 - Programming Skills - Python
 - Phylogenetic Analysis (MEGA)
 - Statistical tools (Rstudio, Rcmdr, SPSS)
