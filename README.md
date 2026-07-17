@@ -6,7 +6,9 @@
 - 🚀 My goal is to build a professional career in clinical and translational research.
 ## 🛠 Skills
 - Laboratory Skills- ELISA, PCR, Gel Electrophoresis, Pure Culture Techniques
-- Programming Skills- R and Python
+- Programming Skills - Python
+- Phylogenetic Analysis (MEGA)
+- Statistical tools (Rstudio, Rcmdr, SPSS)
 - Team collaboration and scientific communication
 - Problem-solving and critical thinking
 ## 📌 Current Learning
