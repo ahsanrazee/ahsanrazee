@@ -11,10 +11,9 @@
 - Problem-solving and critical thinking
 ## 📌 Current Learning
 - Bioinformatics tools
-- Linux commands
-- Python
+- Linux command line
+- Python & R languages
 - Data visualization
-- Research project documentation
 ## 📫 Contact
 Email: razee.ahsanur@gmail.com
 LinkedIn: https://www.linkedin.com/in/ahsanur-razee/
